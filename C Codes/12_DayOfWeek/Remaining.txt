@@ -1,0 +1,2 @@
+11. Write a program to accept a number (0 to 7) and display Day of the Week.
+	Note  Use enum.
